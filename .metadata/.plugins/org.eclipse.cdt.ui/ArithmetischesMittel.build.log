@@ -1,0 +1,15 @@
+06:45:59 **** Incremental Build of configuration Debug for project ArithmetischesMittel ****
+make all 
+Building file: ../ArithmetischesMittel.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"ArithmetischesMittel.d" -MT"ArithmetischesMittel.o" -o "ArithmetischesMittel.o" "../ArithmetischesMittel.c"
+Finished building: ../ArithmetischesMittel.c
+ 
+Building target: ArithmetischesMittel.exe
+Invoking: Cygwin C++ Linker
+g++  -o "ArithmetischesMittel.exe" ./ArithmetischesMittel.o   
+Finished building target: ArithmetischesMittel.exe
+ 
+
+06:46:01 Build Finished. 0 errors, 0 warnings. (took 1s.559ms)
+

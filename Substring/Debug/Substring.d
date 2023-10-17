@@ -1,0 +1,1 @@
+Substring.o: ../Substring.c

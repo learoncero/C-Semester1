@@ -1,0 +1,1 @@
+onlyPositive.o: ../onlyPositive.c

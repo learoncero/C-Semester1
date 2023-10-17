@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Dreiecksmatrix_do_while/Dreiecksmatrix.c&apos; to &apos;Dreiecksmatrix_do_while.c&apos;" description="Rename resource &apos;Dreiecksmatrix.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Dreiecksmatrix.c" name="Dreiecksmatrix_do_while.c" stamp="1669145165341" updateReferences="true"/>
+</session>

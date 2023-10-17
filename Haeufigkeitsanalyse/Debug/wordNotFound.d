@@ -1,0 +1,1 @@
+wordNotFound.o: ../wordNotFound.c

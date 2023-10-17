@@ -1,0 +1,15 @@
+17:15:33 **** Incremental Build of configuration Debug for project test ****
+make all 
+Building file: ../test.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"test.d" -MT"test.o" -o "test.o" "../test.c"
+Finished building: ../test.c
+ 
+Building target: test.exe
+Invoking: Cygwin C Linker
+gcc  -o "test.exe" ./test.o   
+Finished building target: test.exe
+ 
+
+17:15:35 Build Finished. 0 errors, 0 warnings. (took 1s.910ms)
+

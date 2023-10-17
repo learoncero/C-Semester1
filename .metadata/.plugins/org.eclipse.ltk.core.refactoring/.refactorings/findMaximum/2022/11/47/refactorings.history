@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;findMaximum/Maximum.c&apos; to &apos;findMaximum.c&apos;" description="Rename resource &apos;Maximum.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Maximum.c" name="findMaximum.c" stamp="1669317599591" updateReferences="true"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Zeigermanipulationen/mainPointergrafik.c&apos; to &apos;mainZeigermanipulationen.c&apos;" description="Rename resource &apos;mainPointergrafik.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mainPointergrafik.c" name="mainZeigermanipulationen.c" stamp="1673896469466" updateReferences="true"/>
+</session>

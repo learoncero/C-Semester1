@@ -1,0 +1,1 @@
+strFunctions.o: ../strFunctions.c

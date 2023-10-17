@@ -1,0 +1,1 @@
+histogramm.o: ../histogramm.c

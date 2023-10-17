@@ -1,0 +1,15 @@
+11:21:30 **** Incremental Build of configuration Debug for project caesarEncode ****
+make all 
+Building file: ../mainCaesarEncode.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"mainCaesarEncode.d" -MT"mainCaesarEncode.o" -o "mainCaesarEncode.o" "../mainCaesarEncode.c"
+Finished building: ../mainCaesarEncode.c
+ 
+Building target: caesarEncode.exe
+Invoking: Cygwin C Linker
+gcc  -o "caesarEncode.exe" ./mainCaesarEncode.o   
+Finished building target: caesarEncode.exe
+ 
+
+11:21:33 Build Finished. 0 errors, 0 warnings. (took 2s.774ms)
+

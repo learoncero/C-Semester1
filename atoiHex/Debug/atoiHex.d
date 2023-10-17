@@ -1,0 +1,1 @@
+atoiHex.o: ../atoiHex.c

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;arrayRotation/strRotation.c&apos; to &apos;arrRotation.c&apos;" description="Rename resource &apos;strRotation.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="strRotation.c" name="arrRotation.c" stamp="1674030406252" updateReferences="true"/>
+</session>

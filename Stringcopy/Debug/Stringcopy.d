@@ -1,0 +1,1 @@
+Stringcopy.o: ../Stringcopy.c

@@ -1,0 +1,15 @@
+15:27:49 **** Incremental Build of configuration Debug for project AdventofCode1 ****
+make all 
+Building file: ../AdventofCode1.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"AdventofCode1.d" -MT"AdventofCode1.o" -o "AdventofCode1.o" "../AdventofCode1.c"
+Finished building: ../AdventofCode1.c
+ 
+Building target: AdventofCode1.exe
+Invoking: Cygwin C Linker
+gcc  -o "AdventofCode1.exe" ./AdventofCode1.o   
+Finished building target: AdventofCode1.exe
+ 
+
+15:27:51 Build Finished. 0 errors, 0 warnings. (took 1s.798ms)
+

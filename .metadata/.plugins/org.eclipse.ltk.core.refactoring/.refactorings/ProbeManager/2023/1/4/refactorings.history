@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;MeasurementError/mainMeasurementError.c&apos; to &apos;mainProbeManager.c&apos;" description="Rename resource &apos;mainMeasurementError.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="mainMeasurementError.c" name="mainProbeManager.c" stamp="1674466360507" updateReferences="true"/>
+</session>

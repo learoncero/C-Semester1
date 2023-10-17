@@ -1,0 +1,1 @@
+skipDelimiters.o: ../skipDelimiters.c

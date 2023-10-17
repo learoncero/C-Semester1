@@ -1,0 +1,1 @@
+tokenizePointer.o: ../tokenizePointer.c

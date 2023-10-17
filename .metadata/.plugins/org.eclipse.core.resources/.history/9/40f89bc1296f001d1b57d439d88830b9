@@ -1,0 +1,37 @@
+/*
+ * Übungsblatt 6
+ * Aufgabe 6
+ *
+ *  Created on: 24.11.2022
+ *      Author: Lea Roncero
+ */
+
+#include <stdio.h>
+
+double calcValue(double num1, double num2){
+	double value = num1 - num2;
+	if (value < 0){
+		value = value * (-1);
+	}
+	return value;
+}
+
+double calcSqrt(int x, double eps){
+	double y = x/2;
+	double temp = 0;
+
+	while ((calcValue(y, temp)) > eps){
+		temp = y;
+		y = (0.5 * (y + x/y));
+	}
+	return y;
+}
+
+int main(int argc, char* argv[]){
+	int x = 9;
+	double eps = 0.00001;
+	double sqrt = calcSqrt(x, eps);
+	printf("Der Annäherungswert für Wurzel %d = %0.5f\n", x, sqrt);
+
+	return 0;
+}

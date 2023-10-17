@@ -1,0 +1,15 @@
+06:43:29 **** Incremental Build of configuration Release for project ascii2int ****
+make all 
+Building file: ../ascii2int.c
+Invoking: Cygwin C Compiler
+gcc -O3 -Wall -c -fmessage-length=0 -MMD -MP -MF"ascii2int.d" -MT"ascii2int.o" -o "ascii2int.o" "../ascii2int.c"
+Finished building: ../ascii2int.c
+ 
+Building target: ascii2int.exe
+Invoking: Cygwin C Linker
+gcc  -o "ascii2int.exe" ./ascii2int.o   
+Finished building target: ascii2int.exe
+ 
+
+06:43:32 Build Finished. 0 errors, 0 warnings. (took 3s.121ms)
+

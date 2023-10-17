@@ -1,0 +1,20 @@
+20:18:53 **** Incremental Build of configuration Debug for project Maximum ****
+make all 
+Building file: ../Maximum.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Maximum.d" -MT"Maximum.o" -o "Maximum.o" "../Maximum.c"
+../Maximum.c:10:13: error: expected ';', ',' or ')' before numeric constant
+   10 | #define LEN 5
+      |             ^
+../Maximum.c:12:31: note: in expansion of macro 'LEN'
+   12 | int maximum(int values[], int LEN){
+      |                               ^~~
+../Maximum.c:24:15: error: expected ')' before 'char'
+   24 | int main(argc, char* argv[]){
+      |               ^~~~~
+      |               )
+make: *** [subdir.mk:20: Maximum.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+20:18:55 Build Failed. 3 errors, 0 warnings. (took 1s.694ms)
+

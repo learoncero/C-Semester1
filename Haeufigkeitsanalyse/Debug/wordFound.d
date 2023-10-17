@@ -1,0 +1,1 @@
+wordFound.o: ../wordFound.c

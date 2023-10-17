@@ -1,0 +1,1 @@
+MinMaxMean.o: ../MinMaxMean.c

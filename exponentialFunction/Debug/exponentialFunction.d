@@ -1,0 +1,1 @@
+exponentialFunction.o: ../exponentialFunction.c

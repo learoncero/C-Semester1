@@ -1,0 +1,1 @@
+kleinstesGemeinsamesVielfaches.o: ../kleinstesGemeinsamesVielfaches.c

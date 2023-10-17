@@ -1,0 +1,6 @@
+10:19:46 **** Incremental Build of configuration Debug for project Lotto ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:19:47 Build Finished. 0 errors, 0 warnings. (took 316ms)
+

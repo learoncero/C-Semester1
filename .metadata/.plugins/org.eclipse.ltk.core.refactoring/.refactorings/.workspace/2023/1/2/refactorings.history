@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;kgV&apos; to &apos;kleinstesGemeinsamesVielfaches&apos;" description="Rename resource &apos;kgV&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/kgV" name="kleinstesGemeinsamesVielfaches" stamp="1673628950426" updateReferences="true"/>
+</session>

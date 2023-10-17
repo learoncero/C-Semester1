@@ -1,0 +1,1 @@
+StringcopyPointer.o: ../StringcopyPointer.c

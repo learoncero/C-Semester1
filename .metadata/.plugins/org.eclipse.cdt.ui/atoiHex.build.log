@@ -1,0 +1,15 @@
+06:41:34 **** Incremental Build of configuration Debug for project atoiHex ****
+make all 
+Building file: ../atoiHex.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"atoiHex.d" -MT"atoiHex.o" -o "atoiHex.o" "../atoiHex.c"
+Finished building: ../atoiHex.c
+ 
+Building target: atoiHex.exe
+Invoking: Cygwin C Linker
+gcc  -o "atoiHex.exe" ./atoiHex.o   
+Finished building target: atoiHex.exe
+ 
+
+06:41:37 Build Finished. 0 errors, 0 warnings. (took 3s.352ms)
+

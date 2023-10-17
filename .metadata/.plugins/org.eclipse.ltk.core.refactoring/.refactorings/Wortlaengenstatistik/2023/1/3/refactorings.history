@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Wortlaengenstatistik/countWordsMinWordlen.c&apos; to &apos;countWordLen.c&apos;" description="Rename resource &apos;countWordsMinWordlen.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="countWordsMinWordlen.c" name="countWordLen.c" stamp="1673894130834" updateReferences="true"/>
+</session>

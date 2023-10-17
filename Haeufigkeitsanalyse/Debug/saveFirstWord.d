@@ -1,0 +1,1 @@
+saveFirstWord.o: ../saveFirstWord.c

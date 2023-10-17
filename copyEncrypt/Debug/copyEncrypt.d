@@ -1,0 +1,1 @@
+copyEncrypt.o: ../copyEncrypt.c

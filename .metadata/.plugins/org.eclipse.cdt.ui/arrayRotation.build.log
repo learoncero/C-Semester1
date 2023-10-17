@@ -1,0 +1,15 @@
+10:27:42 **** Incremental Build of configuration Debug for project arrayRotation ****
+make all 
+Building file: ../arrRotation.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"arrRotation.d" -MT"arrRotation.o" -o "arrRotation.o" "../arrRotation.c"
+Finished building: ../arrRotation.c
+ 
+Building target: arrayRotation.exe
+Invoking: Cygwin C Linker
+gcc  -o "arrayRotation.exe" ./arrRotation.o   
+Finished building target: arrayRotation.exe
+ 
+
+10:27:46 Build Finished. 0 errors, 0 warnings. (took 3s.294ms)
+

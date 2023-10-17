@@ -1,0 +1,15 @@
+18:21:08 **** Incremental Build of configuration Debug for project Summenbildung ****
+make all 
+Building file: ../Summenbildung.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"Summenbildung.d" -MT"Summenbildung.o" -o "Summenbildung.o" "../Summenbildung.c"
+Finished building: ../Summenbildung.c
+ 
+Building target: Summenbildung.exe
+Invoking: Cygwin C Linker
+gcc  -o "Summenbildung.exe" ./Summenbildung.o   
+Finished building target: Summenbildung.exe
+ 
+
+18:21:10 Build Finished. 0 errors, 0 warnings. (took 1s.781ms)
+

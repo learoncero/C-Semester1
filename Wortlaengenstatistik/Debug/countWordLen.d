@@ -1,0 +1,1 @@
+countWordLen.o: ../countWordLen.c

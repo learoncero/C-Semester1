@@ -1,0 +1,1 @@
+clearTemp.o: ../clearTemp.c

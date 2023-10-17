@@ -1,0 +1,6 @@
+09:18:01 **** Incremental Build of configuration Debug for project strFunctions ****
+make all 
+make: Nothing to be done for 'all'.
+
+09:18:02 Build Finished. 0 errors, 0 warnings. (took 736ms)
+

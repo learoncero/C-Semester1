@@ -1,0 +1,15 @@
+07:07:30 **** Incremental Build of configuration Debug for project findMaximum ****
+make all 
+Building file: ../findMaximum.c
+Invoking: Cygwin C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"findMaximum.d" -MT"findMaximum.o" -o "findMaximum.o" "../findMaximum.c"
+Finished building: ../findMaximum.c
+ 
+Building target: findMaximum.exe
+Invoking: Cygwin C Linker
+gcc  -o "findMaximum.exe" ./findMaximum.o   
+Finished building target: findMaximum.exe
+ 
+
+07:07:31 Build Finished. 0 errors, 0 warnings. (took 1s.753ms)
+

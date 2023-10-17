@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Stringcopy/StringcopyMain.c&apos; to &apos;mainStringcopy.c&apos;" description="Rename resource &apos;StringcopyMain.c&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="StringcopyMain.c" name="mainStringcopy.c" stamp="1673531804696" updateReferences="true"/>
+</session>

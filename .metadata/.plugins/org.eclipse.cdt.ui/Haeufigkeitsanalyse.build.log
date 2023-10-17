@@ -1,0 +1,6 @@
+06:58:34 **** Incremental Build of configuration Debug for project Haeufigkeitsanalyse ****
+make all 
+make: Nothing to be done for 'all'.
+
+06:58:35 Build Finished. 0 errors, 0 warnings. (took 190ms)
+

@@ -1,0 +1,1 @@
+arrRotation.o: ../arrRotation.c

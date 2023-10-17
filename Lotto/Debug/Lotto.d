@@ -1,0 +1,1 @@
+Lotto.o: ../Lotto.c

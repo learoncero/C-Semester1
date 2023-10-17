@@ -1,0 +1,1 @@
+mainZeigermanipulationen.o: ../mainZeigermanipulationen.c

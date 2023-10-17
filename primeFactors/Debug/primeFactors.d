@@ -1,0 +1,1 @@
+primeFactors.o: ../primeFactors.c
